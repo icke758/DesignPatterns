@@ -1,0 +1,14 @@
+C:\C#\DesignPatterns\Builder\bin\Debug\net6.0\Builder.exe
+C:\C#\DesignPatterns\Builder\bin\Debug\net6.0\Builder.deps.json
+C:\C#\DesignPatterns\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+C:\C#\DesignPatterns\Builder\bin\Debug\net6.0\Builder.dll
+C:\C#\DesignPatterns\Builder\bin\Debug\net6.0\Builder.pdb
+C:\C#\DesignPatterns\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DesignPatterns\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+C:\C#\DesignPatterns\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+C:\C#\DesignPatterns\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+C:\C#\DesignPatterns\Builder\obj\Debug\net6.0\Builder.dll
+C:\C#\DesignPatterns\Builder\obj\Debug\net6.0\refint\Builder.dll
+C:\C#\DesignPatterns\Builder\obj\Debug\net6.0\Builder.pdb
+C:\C#\DesignPatterns\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache
+C:\C#\DesignPatterns\Builder\obj\Debug\net6.0\ref\Builder.dll
