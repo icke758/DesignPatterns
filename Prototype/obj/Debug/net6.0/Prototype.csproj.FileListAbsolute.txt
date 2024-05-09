@@ -1,0 +1,14 @@
+C:\C#\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\C#\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\C#\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\C#\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\C#\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\C#\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\C#\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\C#\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\C#\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\C#\DesignPatterns\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+C:\C#\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\C#\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\C#\DesignPatterns\Prototype\obj\Debug\net6.0\ref\Prototype.dll
